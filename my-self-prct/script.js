@@ -43,8 +43,5 @@ function blurEffectOnImageByHoverNav(){
         img.style.filter = "blur(100px)"
    })
 
-
-  
-
 }
 blurEffectOnImageByHoverNav()
